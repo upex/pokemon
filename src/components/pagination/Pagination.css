@@ -1,0 +1,21 @@
+.button {
+  background-color: #e7e7e7;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 10px;
+  cursor: pointer;
+  outline: 0;
+  font-weight: bold;
+}
+.disabled-button {
+  background-color: #e7e7e7!important;
+  cursor: default;
+}
+.button:hover {
+  background-color: #f07440;
+  color: #ffffff;
+}

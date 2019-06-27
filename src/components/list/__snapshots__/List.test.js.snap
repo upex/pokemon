@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List tests renders a pokemon 1`] = `ShallowWrapper {}`;
+
+exports[`List tests renders pokemon-items 1`] = `ShallowWrapper {}`;
